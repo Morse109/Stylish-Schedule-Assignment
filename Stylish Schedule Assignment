@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cyber School Day Schedule</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .event {
+    margin-bottom: 20px;
+    border-left: 3px solid #007bff;
+    padding-left: 10px;
+  }
+
+  .time {
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #007bff;
+  }
+
+  .task {
+    font-size: 16px;
+  }
+
+  .important-task {
+    font-weight: bold;
+    color: #ff6b6b;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="event">
+    <div class="time">08:00 AM</div>
+    <div class="task">Wake up and get ready</div>
+  </div>
+  <div class="event">
+    <div class="time">09:00 AM</div>
+    <div class="task important-task">Complete Basic Web Design assignment</div>
+  </div>
+  <div class="event">
+    <div class="time">10:30 AM</div>
+    <div class="task">Breakfast and short break</div>
+  </div>
+  <div class="event">
+    <div class="time">11:00 AM</div>
+    <div class="task important-task">Complete Psychology worksheet</div>
+  </div>
+  <div class="event">
+    <div class="time">12:30 PM</div>
+    <div class="task">Lunch break</div>
+  </div>
+  <div class="event">
+    <div class="time">01:30 PM</div>
+    <div class="task important-task">Complete Math worksheet</div>
+  </div>
+  <div class="event">
+    <div class="time">03:00 PM</div>
+    <div class="task">Review and revise completed worksheets</div>
+  </div>
+  <div class="event">
+    <div class="time">04:30 PM</div>
+    <div class="task">Free time / Social media break</div>
+  </div>
+  <div class="event">
+    <div class="time">06:00 PM</div>
+    <div class="task">Dinner with family</div>
+  </div>
+  <div class="event">
+    <div class="time">07:00 PM</div>
+    <div class="task">Exercise or outdoor activity</div>
+  </div>
+  <div class="event">
+    <div class="time">08:30 PM</div>
+    <div class="task">Relax and hobbies</div>
+  </div>
+  <div class="event">
+    <div class="time">10:00 PM</div>
+    <div class="task important-task">Review study notes or plan for tomorrow</div>
+  </div>
+  <div class="event">
+    <div class="time">11:30 PM</div>
+    <div class="task">Prepare for bed</div>
+  </div>
+</div>
+</body>
+</html>
